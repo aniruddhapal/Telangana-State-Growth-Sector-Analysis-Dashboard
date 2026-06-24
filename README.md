@@ -20,7 +20,7 @@ Analyze Telangana’s growth across sectors to identify trends and support data-
 ---
 
 ## 📊 Dashboard Preview
-(Add images here)
+Vehicle Class Distribution Accross Districts (images/Vehicle class distribution accross Districts.PNG)
 
 ---
 
