@@ -57,4 +57,20 @@ Performed data cleaning, transformation, and exploratory analysis using Python t
 ---
 
 ## 📂 Project Structure
-Explain your folders here
+
+The repository is organized to reflect a structured data analysis workflow from raw data to final insights and visualization.
+
+* **data/**
+  Contains the raw datasets used for analysis. These are sourced from the Telangana Open Data Portal and include sector-wise, district-wise, and revenue-related data.
+
+* **EDA.ipynb**
+  Jupyter notebook used for exploratory data analysis, data cleaning, and transformation before building the dashboard.
+
+* **insights/**
+  Contains Excel files with detailed analysis and answers to key business questions such as district performance, sector investments, and revenue trends.
+
+* **dashboard.pdf**
+  Final Power BI dashboard exported as PDF, showcasing key insights, trends, and visualizations for decision-makers.
+
+* **images/**
+  Contains screenshots of the dashboard used for quick preview within the README.
