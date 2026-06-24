@@ -21,7 +21,7 @@ Analyze Telangana’s growth across sectors to identify trends and support data-
 ---
 ## 📊 Live Dashboard
 
-👉 [View Interactive Dashboard](https://app.powerbi.com/groups/c2a24c39-1c9a-4c3c-84f8-9951fc9c74b7/reports/d0d719d1-c67c-4f8e-a835-51ce7389032a/ReportSection?experience=power-bi)
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDI1NzM0MDEtMDY1OS00YmI3LTkwYjMtMmM5Mjg5NDNiZDkwIiwidCI6ImRjNmNlMzU0LTVhZTYtNDlmNy05Njk4LWMyZGVjMTg3NDc1ZSJ9&embedImagePlaceholder=true)
 
 ## 📊 Dashboard Preview
 ![Dashboard](https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/home%20page.PNG)
