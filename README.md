@@ -50,5 +50,11 @@ The `insights/` folder contains analysis outputs answering key business question
 
 ---
 
+## 🔬 Exploratory Data Analysis
+
+Performed data cleaning, transformation, and exploratory analysis using Python to prepare datasets for dashboarding.
+
+---
+
 ## 📂 Project Structure
 Explain your folders here
