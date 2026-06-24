@@ -28,9 +28,10 @@ Analyze Telangana’s growth across sectors to identify trends and support data-
 ---
 
 ## 🔍 Key Insights
-- Top performing sectors
-- District-wise growth variations
-- Investment trends across sectors
+- Identified top-performing districts contributing to highest revenue growth
+- Highlighted sectors with consistent investment growth across years
+- Detected underperforming regions requiring policy attention
+- Revealed seasonal trends in vehicle sales and registration revenue
 
 ---
 
@@ -53,9 +54,11 @@ The `insights/` folder contains analysis outputs answering key business question
 
 ## 🔬 Exploratory Data Analysis
 
-Performed data cleaning, transformation, and exploratory analysis using Python to prepare datasets for dashboarding.
-
+Performed data cleaning, transformation, and exploratory analysis using Python, including handling missing values, merging datasets, and deriving key metrics for dashboarding.
 ---
+
+## 🔄 Workflow
+Raw Data → Data Cleaning (Python) → EDA → Insights → Power BI Dashboard
 
 ## 📂 Project Structure
 
