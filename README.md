@@ -1,13 +1,43 @@
-### 📊 Telangana State Growth & Sector Analysis Dashboard
+# Telangana State Growth & Sector Analysis Dashboard
 
-Analyzed large-scale public datasets from the Telangana Government to evaluate growth trends across multiple sectors (economy, education, infrastructure).
+## 📌 Problem Statement
+Analyze Telangana’s growth across sectors to identify trends and support data-driven decision-making.
 
-Built an interactive dashboard to help decision-makers:
-• Identify high-growth and underperforming districts
-• Compare sector-wise development trends
-• Detect regional disparities using geospatial visualization
+---
 
-Key impact:
-Provided data-driven insights and actionable recommendations that can support policy planning, resource allocation, and targeted interventions at the state level.
+## 🎯 Objective
+- Evaluate sector-wise growth
+- Identify high/low performing districts
+- Provide actionable insights for policymakers
 
-Tools used: Power BI, Excel, Data Visualization, Geospatial Mapping
+---
+
+## 🛠 Tools Used
+- Power BI
+- Python (EDA)
+- Excel
+
+---
+
+## 📊 Dashboard Preview
+(Add images here)
+
+---
+
+## 🔍 Key Insights
+- Top performing sectors
+- District-wise growth variations
+- Investment trends across sectors
+
+---
+
+## 🚀 Business Impact
+Provided actionable insights that can support:
+- Policy planning
+- Resource allocation
+- Regional development strategies
+
+---
+
+## 📂 Project Structure
+Explain your folders here
