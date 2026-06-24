@@ -1,4 +1,5 @@
 # Telangana State Growth & Sector Analysis Dashboard
+A real-world data analytics project using Telangana Government open data to generate actionable insights for policy-level decision making.
 
 ## 📌 Problem Statement
 Analyze Telangana’s growth across sectors to identify trends and support data-driven decision-making.
