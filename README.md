@@ -20,9 +20,9 @@ Analyze Telangana’s growth across sectors to identify trends and support data-
 ---
 
 ## 📊 Dashboard Preview
-(https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/home%20page.PNG)
-(https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/stamp%20analysis-district-wise%20doc%20registration.PNG)
-(https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/top%203%20districts%20for%20major%20sector%20investment.PNG)
+![Dashboard] (https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/home%20page.PNG)
+![Dashboard] (https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/stamp%20analysis-district-wise%20doc%20registration.PNG)
+![Dashboard] (https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/top%203%20districts%20for%20major%20sector%20investment.PNG)
 
 ---
 
