@@ -20,7 +20,7 @@ Analyze Telangana’s growth across sectors to identify trends and support data-
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Homepage](images/home page.PNG)
+![Dashboard Homepage](https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/home%20page.PNG)
 
 ---
 
