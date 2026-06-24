@@ -41,5 +41,14 @@ Provided actionable insights that can support:
 
 ---
 
+## 📈 Insights Files
+
+The `insights/` folder contains analysis outputs answering key business questions:
+- Top districts by revenue growth
+- Sector-wise investment trends
+- Vehicle sales growth patterns
+
+---
+
 ## 📂 Project Structure
 Explain your folders here
