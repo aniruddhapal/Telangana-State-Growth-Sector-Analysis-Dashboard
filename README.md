@@ -21,6 +21,7 @@ Analyze Telangana’s growth across sectors to identify trends and support data-
 
 ## 📊 Dashboard Preview
 ![Dashboard Homepage](https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/home%20page.PNG)
+![Stamp Analysis District-Wise](https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard/blob/main/images/stamp%20analysis-district-wise%20doc%20registration.PNG)
 
 ---
 
